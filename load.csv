@@ -1,0 +1,12 @@
+id,age,work,house,credit,label
+1,Q,N,N,Y,0
+2,Q,N,N,H,0
+3,Q,Y,N,H,1
+4,Q,Y,Y,Y,1
+5,Q,N,N,Y,0
+6,Z,N,N,Y,0
+7,Z,N,N,H,0
+8,Z,Y,Y,H,1
+9,Z,N,Y,F,1
+10,Z,N,Y,F,1
+11,L,N,Y,F,1
